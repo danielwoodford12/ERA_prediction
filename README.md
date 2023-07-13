@@ -1,1 +1,1 @@
-# ERA_prediction using Statcast data from 2015 to all-star break 2023
+ERA_prediction using Statcast data from 2015 to all-star break 2023
